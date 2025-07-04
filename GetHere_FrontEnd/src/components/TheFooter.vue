@@ -20,7 +20,7 @@
       </div>
       <section class="footer__base">
         <div class="footer__info">
-          © 2022 GetHere, Inc. · Privacidade · Termos · Mapa do site · Informações da empresa
+          © 2025 GetHere, Inc. · Privacidade · Termos · Mapa do site · Informações da empresa
         </div>
         <div class="footer__media">
         </div>
@@ -53,17 +53,11 @@ export default {
           title: 'Criadores',
           items: [
             {
-              label: 'Antonio Souza',
-            },
-            {
               label: 'Pedro Fonseca',
             },
             {
               label: 'Victor Ribeiro',
-            },
-            {
-              label: 'Matheus Moreira',
-            },
+            }
           ],
         },
         {
